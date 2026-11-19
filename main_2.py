@@ -1,6 +1,8 @@
 # ==========================================
 # 3. PROGRAMA PRINCIPAL MAIN_2.PY
 # ==========================================
+from funciones_interfaz import *
+from funciones_ventas import *
 
 def iniciar_caja():
     monto_total_diario = 0.0
